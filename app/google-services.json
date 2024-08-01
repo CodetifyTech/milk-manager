@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "520982983132",
+    "firebase_url": "https://inventory-management-a06fd-default-rtdb.firebaseio.com",
+    "project_id": "inventory-management-a06fd",
+    "storage_bucket": "inventory-management-a06fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520982983132:android:9c53938685148e4c20df19",
+        "android_client_info": {
+          "package_name": "com.example.milkmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7LK7HxFSuf3nBowaEG4uL1CbXsownivw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520982983132:android:7a63e9084198a4b320df19",
+        "android_client_info": {
+          "package_name": "resimply.hdcompany.milkmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7LK7HxFSuf3nBowaEG4uL1CbXsownivw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
